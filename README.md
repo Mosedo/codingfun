@@ -1,2 +1,3 @@
 # codingfun
-for fun coding challanges
+
+data structures and algorithms in python and javascript
